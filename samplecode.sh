@@ -1,1 +1,1 @@
-Samplecode.sh file has created.
+echo "Welcome to the demo project"
